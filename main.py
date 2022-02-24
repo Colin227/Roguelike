@@ -2,8 +2,8 @@
 
 import traceback
 
-import pkg_resources
-pkg_resources.require("tcod==11.19.3")
+# import pkg_resources
+# pkg_resources.require("tcod==11.19.3")
 import tcod
 
 import color
